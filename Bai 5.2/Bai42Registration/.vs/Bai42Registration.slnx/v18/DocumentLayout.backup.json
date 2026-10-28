@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bai 5.2\\Bai42Registration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7FC05B-4FD1-47F6-A8D9-1CD2479AB90D}|Bai42Registration\\Bai42Registration.csproj|d:\\bai 5.2\\bai42registration\\bai42registration\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7FC05B-4FD1-47F6-A8D9-1CD2479AB90D}|Bai42Registration\\Bai42Registration.csproj|solutionrelative:bai42registration\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7FC05B-4FD1-47F6-A8D9-1CD2479AB90D}|Bai42Registration\\Bai42Registration.csproj|d:\\bai 5.2\\bai42registration\\bai42registration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7FC05B-4FD1-47F6-A8D9-1CD2479AB90D}|Bai42Registration\\Bai42Registration.csproj|solutionrelative:bai42registration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7FC05B-4FD1-47F6-A8D9-1CD2479AB90D}|Bai42Registration\\Bai42Registration.csproj|d:\\bai 5.2\\bai42registration\\bai42registration\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B7FC05B-4FD1-47F6-A8D9-1CD2479AB90D}|Bai42Registration\\Bai42Registration.csproj|solutionrelative:bai42registration\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7FC05B-4FD1-47F6-A8D9-1CD2479AB90D}|Bai42Registration\\Bai42Registration.csproj|d:\\bai 5.2\\bai42registration\\bai42registration\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7FC05B-4FD1-47F6-A8D9-1CD2479AB90D}|Bai42Registration\\Bai42Registration.csproj|solutionrelative:bai42registration\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bai 5.2\\Bai42Registration\\Bai42Registration\\Program.cs",
+              "RelativeDocumentMoniker": "Bai42Registration\\Program.cs",
+              "ToolTip": "D:\\Bai 5.2\\Bai42Registration\\Bai42Registration\\Program.cs",
+              "RelativeToolTip": "Bai42Registration\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T11:18:49.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Bai 5.2\\Bai42Registration\\Bai42Registration\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai42Registration\\Form1.cs",
+              "ToolTip": "D:\\Bai 5.2\\Bai42Registration\\Bai42Registration\\Form1.cs",
+              "RelativeToolTip": "Bai42Registration\\Form1.cs",
+              "ViewState": "AgIAAKwBAAAAAAAAAAAAANsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T11:18:21.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Bai 5.2\\Bai42Registration\\Bai42Registration\\Database.cs",
+              "RelativeDocumentMoniker": "Bai42Registration\\Database.cs",
+              "ToolTip": "D:\\Bai 5.2\\Bai42Registration\\Bai42Registration\\Database.cs",
+              "RelativeToolTip": "Bai42Registration\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T11:16:57.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Bai 5.2\\Bai42Registration\\Bai42Registration\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai42Registration\\Form1.cs",
+              "ToolTip": "D:\\Bai 5.2\\Bai42Registration\\Bai42Registration\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai42Registration\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T11:15:25.667Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
